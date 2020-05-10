@@ -16,7 +16,6 @@ app .get('/', (requisicao, resposta)=>{
 /**
  *  Prepara a plicação para escutar a porta indicada na variável "port"
  *  */
-
  app .listen(port,()=>{
      console.log('Aplicação iniciada e escutando na porta:', port);
  });
