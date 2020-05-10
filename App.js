@@ -1,7 +1,7 @@
 /**
  * Aula Sobre GIT App modelo.
  */
-import express from "express";
+var express = require ("express");
 var app = express();
 var port = 8099;
 
