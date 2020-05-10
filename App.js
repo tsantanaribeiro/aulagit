@@ -2,8 +2,8 @@
  * Aula Sobre GIT App modelo.
  */
 import express from "express";
-let app = express();
-let port = 8099;
+var app = express();
+var port = 8099;
 
 /**
  * Quando a aplicação estiver ativa e escutando a porta 8099. Quando uma "requisiação" com o verbo GET realizada.
