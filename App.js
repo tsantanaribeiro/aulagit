@@ -21,6 +21,3 @@ app .get('/', (requisicao, resposta)=>{
  });
 
  module.exports  = app;
- /**
-  * Teste de branch diferente
-  */
