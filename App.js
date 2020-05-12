@@ -21,6 +21,6 @@ app .get('/', (requisicao, resposta)=>{
  });
 
  module.exports  = app;
- /**
-  * Teste de branch diferente
+ /** e aqui
+  * Teste de branch diferente com conflito
   */
