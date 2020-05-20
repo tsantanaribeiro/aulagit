@@ -21,3 +21,9 @@ app .get('/', (requisicao, resposta)=>{
  });
 
  module.exports  = app;
+<<<<<<< HEAD
+=======
+ /** e aqui
+  * Teste de branch diferente com conflito
+  */
+>>>>>>> feature4
